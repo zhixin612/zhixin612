@@ -1,4 +1,4 @@
-I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin University, advised by [Wenyu Qu](http://cic.tju.edu.cn/faculty/wyqu/index.html) and [Yitao Hu](http://sugartom.com/). My research interests include machine learning systems, DNN serving, and distributed systems. I received my B.S. degree in computer science from [Northwest A&F University](https://www.nwafu.edu.cn).
+I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin University, advised by [Wenyu Qu](http://cic.tju.edu.cn/faculty/wyqu/index.html) and [Yitao Hu](http://sugartom.com/). My research interests include machine learning systems, DNN model serving, and distributed systems. I received my B.S. degree in computer science from [Northwest A&F University](https://www.nwafu.edu.cn).
 
 **GitHub**: [zhixin612](https://github.com/zhixin612)
 
