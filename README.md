@@ -7,8 +7,7 @@ I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin Univers
 ---
 ### 📑 Publications
 
-* [under submission] to be update
-* Laiping Zhao, Xinan Dai, **Zhixin Zhao**, Yusong Xin, Yitao Hu, Jun Qian, Jun Yao and Keqiu Li. [High-throughput Sampling, Communicating and Training for Reinforcement Learning Systems](). IWQoS 2023. [to appear]
+* Laiping Zhao, Xinan Dai, **Zhixin Zhao**, Yusong Xin, Yitao Hu, Jun Qian, Jun Yao and Keqiu Li. [High-throughput Sampling, Communicating and Training for Reinforcement Learning Systems](https://ieeexplore.ieee.org/document/10188703). IWQoS 2023.
 
 ---
 ### 👨‍🎓 Academic Services
