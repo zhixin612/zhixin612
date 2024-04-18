@@ -22,7 +22,7 @@ I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin Univers
 * 2020: The 45th ICPC Asia Regional Contest Shanghai Site: **Silver Medal**
 
 ---
-### 🎓 Main Honers 
+### 🎓 Honors 
 
 * 2023: **Distinguished Academic Scholarship**, Tianjin University
 * 2022: **Outstanding Graduate**, Northwest A&F University
