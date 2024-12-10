@@ -7,8 +7,8 @@ I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin Univers
 ---
 ### 📑 Publications
 
+* **Zhixin Zhao**, Yitao Hu*, Ziqi Gong, Guotao Yang, Wenxin Li, Xiulong Liu, Keqiu Li and Hao Wang. [Harpagon: Minimizing DNN Serving Cost via Efficient Dispatching, Scheduling and Splitting](https://arxiv.org/abs/2412.06161). INFOCOM 2025.
 * Laiping Zhao, Xinan Dai, **Zhixin Zhao**, Yusong Xin, Yitao Hu*, Jun Qian, Jun Yao and Keqiu Li. [High-throughput Sampling, Communicating and Training for Reinforcement Learning Systems](https://ieeexplore.ieee.org/document/10188703). IWQoS 2023.
-* **Zhixin Zhao**, Yitao Hu*, Ziqi Gong, Guotao Yang, Wenxin Li, Xiulong Liu, Keqiu Li and Hao Wang. Harpagon: Minimizing DNN Serving Cost via Efficient Dispatching, Scheduling and Splitting. INFOCOM 2025.
 
 ---
 ### 👨‍🎓 Academic Services
