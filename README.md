@@ -7,9 +7,12 @@ I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin Univers
 ---
 ### 📑 Publications
 
-* **Zhixin Zhao**, Yitao Hu*, Guotao Yang, Ziqi Gong, Chen Shen, Laiping Zhao, Wenxin Li, Xiulong Liu and Wenyu Qu. SLOpt: Serving Real-Time Inference Pipeline with Strict Latency Constraint. _TC 2025_.
-* **Zhixin Zhao**, Yitao Hu*, Ziqi Gong, Guotao Yang, Wenxin Li, Xiulong Liu, Keqiu Li and Hao Wang. [Harpagon: Minimizing DNN Serving Cost via Efficient Dispatching, Scheduling and Splitting](https://arxiv.org/abs/2412.06161). _INFOCOM 2025_.
-* Laiping Zhao, Xinan Dai, **Zhixin Zhao**, Yusong Xin, Yitao Hu*, Jun Qian, Jun Yao and Keqiu Li. [High-throughput Sampling, Communicating and Training for Reinforcement Learning Systems](https://ieeexplore.ieee.org/document/10188703). _IWQoS 2023_.
+* SLOpt: Serving Real-Time Inference Pipeline with Strict Latency Constraint. _TC 2025_.  
+  **Zhixin Zhao**, Yitao Hu*, Guotao Yang, Ziqi Gong, Chen Shen, Laiping Zhao, Wenxin Li, Xiulong Liu and Wenyu Qu. 
+* [Harpagon: Minimizing DNN Serving Cost via Efficient Dispatching, Scheduling and Splitting](https://arxiv.org/abs/2412.06161). _INFOCOM 2025_.  
+  **Zhixin Zhao**, Yitao Hu*, Ziqi Gong, Guotao Yang, Wenxin Li, Xiulong Liu, Keqiu Li and Hao Wang.
+* [High-throughput Sampling, Communicating and Training for Reinforcement Learning Systems](https://ieeexplore.ieee.org/document/10188703). _IWQoS 2023_.  
+  Laiping Zhao, Xinan Dai, **Zhixin Zhao**, Yusong Xin, Yitao Hu*, Jun Qian, Jun Yao and Keqiu Li.
 
 ---
 ### 👨‍🎓 Academic Services
