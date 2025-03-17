@@ -11,6 +11,8 @@ I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin Univers
   **Zhixin Zhao**, Yitao Hu*, Guotao Yang, Ziqi Gong, Chen Shen, Laiping Zhao, Wenxin Li, Xiulong Liu and Wenyu Qu. 
 * [Harpagon: Minimizing DNN Serving Cost via Efficient Dispatching, Scheduling and Splitting](https://arxiv.org/abs/2412.06161). _INFOCOM 2025_.  
   **Zhixin Zhao**, Yitao Hu*, Ziqi Gong, Guotao Yang, Wenxin Li, Xiulong Liu, Keqiu Li and Hao Wang.
+* [TightLLM: Maximizing Throughput for LLM Inference via Adaptive Offloading Policy](). _TC 2025_.
+  Yitao Hu, Xiulong Liu*, Guotao Yang, Linxuan Li, Kai Zeng, **Zhixin Zhao**, Sheng Chen, Laiping Zhao, Wenxin Li, Keqiu Li
 * [High-throughput Sampling, Communicating and Training for Reinforcement Learning Systems](https://ieeexplore.ieee.org/document/10188703). _IWQoS 2023_.  
   Laiping Zhao, Xinan Dai, **Zhixin Zhao**, Yusong Xin, Yitao Hu*, Jun Qian, Jun Yao and Keqiu Li.
 
