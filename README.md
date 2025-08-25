@@ -12,7 +12,7 @@ I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin Univers
     **Zhixin Zhao**, Yitao Hu*, Guotao Yang, Ziqi Gong, Chen Shen, Laiping Zhao, Wenxin Li, Xiulong Liu, and Wenyu Qu. <br>
     *IEEE Transactions on Computers (TC), 2025.*
 
-2.  [**Harpagon: Minimizing DNN Serving Cost via Efficient Dispatching, Scheduling and Splitting**](https://doi.org/10.1109/INFOCOM55648.2025.11044536) <br>
+2.  [**Harpagon: Minimizing DNN Serving Cost via Efficient Dispatching, Scheduling and Splitting**](https://ieeexplore.ieee.org/document/11044536) <br>
     **Zhixin Zhao**, Yitao Hu*, Ziqi Gong, Guotao Yang, Wenxin Li, Xiulong Liu, Keqiu Li, and Hao Wang. <br>
     *IEEE International Conference on Computer Communications (INFOCOM), 2025.*
 
