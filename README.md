@@ -20,11 +20,11 @@ I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin Univers
     Yitao Hu, Xiulong Liu*, Guotao Yang, Linxuan Li, Kai Zeng, **Zhixin Zhao**, Sheng Chen, Laiping Zhao, Wenxin Li, and Keqiu Li. <br>
     *IEEE Transactions on Computers (TC), 2025.*
 
-4.  **SuperSpec: Enhanced Verification and Sampling for End-to-End LLM Speculative Decoding** <br>
+4.  [**SuperSpec: Enhanced Verification and Sampling for End-to-End LLM Speculative Decoding**](https://doi.ieeecomputersociety.org/10.1109/HPCC67675.2025.00064) <br>
     Chen Shen, Rui Guo, Yang Cheng, Yang Lin, **Zhixin Zhao**, Yitao Hu*, Sheng Chen, Xiulong Liu, and Keqiu Li. <br>
     *IEEE International Conference on High Performance Computing and Communications (HPCC), 2025.*
 
-5.  **SmartCache: Two-Dimensional KV-Cache Similarity for Efficient Long-Context LLM Decoding** <br>
+5.  [**SmartCache: Two-Dimensional KV-Cache Similarity for Efficient Long-Context LLM Decoding**](https://doi.ieeecomputersociety.org/10.1109/HPCC67675.2025.00065) <br>
     Chen Shen, Hao Chen, Kaining Hui, **Zhixin Zhao**, Yang Cheng, Yitao Hu*, Sheng Chen, Xiulong Liu, and Keqiu Li. <br>
     *IEEE International Conference on High Performance Computing and Communications (HPCC), 2025.*
 
