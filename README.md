@@ -8,7 +8,7 @@ I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin Univers
 
 ### 📑 Publications
 
-1.  **PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel** <br>
+1.  [**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**](https://arxiv.org/abs/2511.22333) <br>
     Jinjun Yi†, **Zhixin Zhao†**, Yitao Hu*, Ke Yan, Weiwei Sun, Hao Wang, Laiping Zhao, Yuhao Zhang, Wenxin Li, Keqiu Li. <br>
     *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2026*
 
