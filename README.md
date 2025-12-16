@@ -41,7 +41,7 @@ I am a Ph.D. student in [TANKLAB](http://www.tjutanklab.com/) at Tianjin Univers
 ### 👨‍🎓 Academic Services
 
 * 2025: ASPLOS - Artifact Evaluation Reviewer
-* 2023：ICA3PP - Reviewer
+* 2023: ICA3PP - Reviewer
 
 ---
 ### ⭐ Main Awards
